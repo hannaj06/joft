@@ -1,4 +1,4 @@
 # joft
-Simple webapp to server joke of the day emails.
+Simple webapp to serve joke of the day emails.
 
 
